@@ -236,12 +236,12 @@ h1{
         width: 10px;
         position: relative;
         top: 25px;
-        left: -230px;
+        left: -205px;
     }
     .container2{
         position: relative;
         top: -45px;
-        left: 230px;
+        left: 245px;
     }
     .ig{
         height: 300px;
@@ -257,7 +257,7 @@ h1{
        justify-items: center;
        align-items: center;
        top: -20px;
-       left: -50px;
+       left: -40px;
        position: relative;
     }
     .container32{
@@ -267,7 +267,7 @@ h1{
         align-items: center;
         gap: 150px;
         top: 20px;
-        left:-150px;
+        left:-100px;
         position: relative;
      }
      .bx{
