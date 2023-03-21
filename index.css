@@ -45,7 +45,7 @@ li a{
 }
 .container3{
     display: flex;
-    position: relative;
+    position: absolute;
     top: 250px;
     left: 60px;
     gap: 50px;
